@@ -11,4 +11,5 @@ In future projects I will switch to spherical coordinates for mutliple particle 
 Preview: https://www.youtube.com/watch?v=wG3s-hwQF5U
 
 
-![Tess](https://github.com/user-attachments/assets/5ec24fb7-6039-4878-9341-36d4994b651c)
+
+![Tess](https://github.com/user-attachments/assets/ff28c9e6-d662-4c00-94be-e3f2a10f024d)
